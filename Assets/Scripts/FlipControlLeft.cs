@@ -51,4 +51,4 @@ public class FlipControlLeft : MonoBehaviour
             myHingeJoint.motor = motor2D;
         }
     }
-}
+} 
